@@ -1,5 +1,7 @@
 # **Sistema de Agenda Digital para Escolas de Ensino Fundamental**
 
+[ProtoType Figma ](https://www.figma.com/file/bF5PLefvs92YJSwXXTEfyM/Agenda-Escola-Digital?type=design&node-id=1%3A2&mode=design&t=xJBBwoKgGIx7ncJ0-1)
+
 ### **Objetivo:**
 
 - **Melhorar a comunicação entre a escola, os alunos e seus responsáveis.**
@@ -132,3 +134,10 @@ acesso a determinadas informações.**
 
 - Implemente mecanismos de monitoramento e logs para detectar atividades suspeitas. Isso pode ajudar na identificação de
   tentativas de exploração mesmo em endpoints de leitura.
+
+## BPMN
+
+![1708878395003](./img/bpmn/Avisos%20aos%20responsáveis.svg) ![1708878395003](./img/bpmn/avisos%20comuns.svg)
+![1708878395003](./img/bpmn/eventos%20na%20escola.svg) ![1708878395003](./img/bpmn/Informar%20doença.svg)
+![1708878395003](./img/bpmn/passeio.svg) ![1708878395003](./img/bpmn/reuniões.svg)
+![1708878395003](./img/bpmn/trabalhos%20escolares.svg)
