@@ -56,8 +56,8 @@ eficaz das atividades escolares.
 
 ##**Requisitos Não Funcionais:**
 
-- **Segurança:** **O sistema deve proteger as informações pessoais dos usuários e garantir que apenas usuários autorizados tenham
-  acesso a determinadas informações.**
+- **Segurança:** O sistema deve proteger as informações pessoais dos usuários e garantir que apenas usuários autorizados tenham
+  acesso a determinadas informações.
 
 - **Desempenho:** O sistema deve ser capaz de suportar muitos usuários simultâneos sem degradação do desempenho.
 
