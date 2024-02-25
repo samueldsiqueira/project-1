@@ -4,24 +4,24 @@
 
 ## **Objetivo:**
 
-- **Melhorar a comunicação entre a escola, os alunos e seus responsáveis.**
-- **Otimizar o gerenciamento de eventos, tarefas e informações relevantes.**
-- **Facilitar o acesso a informações essenciais para o bom funcionamento da escola.**
+- Melhorar a comunicação entre a escola, os alunos e seus responsáveis.
+- Otimizar o gerenciamento de eventos, tarefas e informações relevantes.
+- Facilitar o acesso a informações essenciais para o bom funcionamento da escola.
 
 ---
 
 ## **Justificativas:**
 
-- **A comunicação eficiente é fundamental para o sucesso educacional dos alunos.**
-- **A automação de processos reduz a carga administrativa dos professores e funcionários.**
-- **A centralização das informações simplifica o acesso e evita perdas de dados.**
+- A comunicação eficiente é fundamental para o sucesso educacional dos alunos.
+- A automação de processos reduz a carga administrativa dos professores e funcionários.
+- A centralização das informações simplifica o acesso e evita perdas de dados.
 
 ---
 
 ## **Público-alvo**
 
-- **Alunos, pais e responsáveis.**
-- **Professores e funcionários da escola.**
+- Alunos, pais e responsáveis.
+- Professores e funcionários da escola.
 
 ---
 
