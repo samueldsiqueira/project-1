@@ -54,7 +54,7 @@ eficaz das atividades escolares.
 
 ---
 
-##**Requisitos Não Funcionais:**
+## **Requisitos Não Funcionais:**
 
 - **Segurança:** O sistema deve proteger as informações pessoais dos usuários e garantir que apenas usuários autorizados tenham
   acesso a determinadas informações.
